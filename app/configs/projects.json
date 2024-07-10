@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Starknet.quest",
+    "banner": "/projects/starknet-quest/banner.webp",
+    "logo": "/projects/starknet-quest/logo.svg",
+    "description": "",
+    "work": [
+      {
+        "name": "Quiz feature"
+      },
+      {
+        "name": "Redesign for mobile"
+      },
+      {
+        "name": "Partnership page"
+      },
+      {
+        "name": "Quest page"
+      },
+      {
+        "name": "Quest category"
+      }
+    ]
+  }
+]
