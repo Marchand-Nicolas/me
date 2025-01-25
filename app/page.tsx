@@ -78,7 +78,7 @@ export default function Home() {
           </p>
         </a>
       </div>
-      <span className="opacity-80 text-sm">© 2024 Nicolas Marchand</span>
+      <span className="opacity-80 text-sm">© 2025 Nicolas Marchand</span>
     </main>
   );
 }
