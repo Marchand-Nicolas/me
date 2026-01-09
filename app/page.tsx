@@ -11,7 +11,7 @@ export default function Home() {
           Freelance Developer
         </p>
       </div>
-      <div className="grid text-center lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
+      <div className="grid text-center lg:w-full lg:max-w-5xl lg:grid-cols-3 lg:text-left">
         <a
           href="https://github.com/Marchand-Nicolas"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
@@ -26,23 +26,6 @@ export default function Home() {
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
             My development projects and contributions.
-          </p>
-        </a>
-
-        <a
-          href="https://app.onlydust.com/u/Marchand-Nicolas"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className="mb-3 text-2xl font-semibold">
-            OnlyDust{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Open-source contributions.
           </p>
         </a>
 
@@ -78,7 +61,7 @@ export default function Home() {
           </p>
         </a>
       </div>
-      <span className="opacity-80 text-sm">© 2025 Nicolas Marchand</span>
+      <span className="opacity-80 text-sm">© 2026 Nicolas Marchand</span>
     </main>
   );
 }
